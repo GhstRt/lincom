@@ -8,7 +8,7 @@ Bu araca sadece belirli komutlar alınmıştır. Ancak komutların devamı araç
 
 # Kurulum
 
-`wget https://github.com/GhstRt/lincom.git`  
+`git clone https://github.com/GhstRt/lincom.git`  
 `cd lincom`  
 `python3 lincom.py`  
 
