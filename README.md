@@ -8,9 +8,10 @@ Bu araca sadece belirli komutlar alınmıştır. Ancak komutların devamı araç
 
 # Kurulum
 
-git clone https://github.com/GhstRt/lincom.git
-cd lincom
-python3 lincom.py
+`wget https://github.com/GhstRt/lincom.git`  
+`cd lincom`  
+`python3 lincom.py`  
+
 
 # Lisans
 
