@@ -1,6 +1,6 @@
 # Lincom Hakkında
 
-Bu Araç Temel Linux Komutlarını Tanıtmak İçin Hazırlanmıştır. Linux komutlarını bir yandan anlatıp diğer yandan da içinde bulunan deneme ortamı ile beraber temel linux komutlarını göstermektedir.
+Bu araç temel linux komutlarını tanıtmak için hazırlanmıştır. Linux komutlarını bir yandan anlatıp diğer yandan da içinde bulunan deneme ortamı ile beraber temel linux komutlarını göstermektedir.
 
 # Komutların Devamı
 
